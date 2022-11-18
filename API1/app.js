@@ -16,6 +16,7 @@ async function produce() {
   await producer.disconnect();
 }
 
+
 // produce()
 //   .then(() => {
 //     producer.disconnect();
